@@ -1,5 +1,4 @@
 # Hello, I'm Deqa
-<a href="https://linkedin.com/https://www.linkedin.com/in/deqa-mohamed-13149a23b/ "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Connect with me on LinkedIn
 
