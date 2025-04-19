@@ -10,29 +10,18 @@ I am a cybersecurity student with a deep interest in technology and a strong com
 
 To obtain a position in the cybersecurity field where I can utilize my skills in IT support, network security, and penetration testing. Eager to contribute to a team while further developing my expertise in cybersecurity and gaining practical experience in information security.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Programming & Scripting: Python, Networking Scripting          | [Port Scanner Project](https://github.com/Deqa2020/port-scanner)|
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)|
-| Incident Response Planning and Execution      | [SOC Automation Lab](#)|
-| Case Management with TheHive                  | [SOC Automation Lab](#)|
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)|
-| **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
-
 ---
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Programming & Scripting: Python, Networking Scripting          | [Port Scanner Project](https://github.com/Deqa2020/port-scanner)|
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)|
-| Incident Response Planning and Execution      | [SOC Automation Lab](#)|
-| Case Management with TheHive                  | [SOC Automation Lab](#)|
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)|
-| **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
-| Meal Planning: Python, CLI, Cultural Awareness| [Somali Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
+| Skill                                             | Associated Project         |
+|---------------------------------------------------|----------------------------|
+| Programming & Scripting: Python, Networking Scripting | [Port Scanner Project](https://github.com/Deqa2020/port-scanner) |
+| Programming & Scripting: Python, CLI Design, User Interaction | [Somali Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
+| Security Automation with Shuffle SOAR             | [SOC Automation Lab](#)    |
+| Incident Response Planning and Execution          | [SOC Automation Lab](#)    |
+| Case Management with TheHive                      | [SOC Automation Lab](#)    |
+| Scripting and Automation for Threat Mitigation     | [SOC Automation Lab](#)    |
+| **Upcoming Project**                              | **SOC Automation Lab** (Coming Soon) |
 
 
 
@@ -66,6 +55,16 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 
 - **[Elastic Stack (ELK Stack)](https://www.elastic.co/what-is/elk-stack)**: A set of tools for searching, logging, and analyzing data in real-time. It consists of Elasticsearch, Logstash, and Kibana, collectively known as the ELK Stack.  
   ![Elastic Badge](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
+
+
+
+### Programming Tools
+
+- **[Python](https://www.python.org/)**: A versatile programming language widely used for scripting, web development, data science, and automation tasks.  
+  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+
+- **[C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))**: A general-purpose programming language that provides low-level memory access and is widely used for system programming and embedded systems.  
+  ![C Badge](https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=C&logoColor=white)
 
 ---
 
