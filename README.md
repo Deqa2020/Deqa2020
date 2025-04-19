@@ -22,6 +22,21 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 | **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
 
 ---
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Programming & Scripting: Python, Networking Scripting          | [Port Scanner Project](https://github.com/Deqa2020/port-scanner)|
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)|
+| Incident Response Planning and Execution      | [SOC Automation Lab](#)|
+| Case Management with TheHive                  | [SOC Automation Lab](#)|
+| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)|
+| **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
+| Meal Planning: Python, CLI, Cultural Awareness| [Somali Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
+
+
+
+
 
 ## Tools
 
