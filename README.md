@@ -11,17 +11,6 @@ I am a cybersecurity student with a deep interest in technology and a strong com
 To obtain a position in the cybersecurity field where I can utilize my skills in IT support, network security, and penetration testing. Eager to contribute to a team while further developing my expertise in cybersecurity and gaining practical experience in information security.
 
 ---
-## Skills
-
-| Skill                                             | Associated Project         |
-|---------------------------------------------------|----------------------------|
-| Programming & Scripting: Python, Networking Scripting | [Port Scanner Project](https://github.com/Deqa2020/port-scanner) |
-| Programming & Scripting: Python, CLI Design, User Interaction | [Somali Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
-| Security Automation with Shuffle SOAR             | [SOC Automation Lab](#)    |
-| Incident Response Planning and Execution          | [SOC Automation Lab](#)    |
-| Case Management with TheHive                      | [SOC Automation Lab](#)    |
-| Scripting and Automation for Threat Mitigation     | [SOC Automation Lab](#)    |
-| **Upcoming Project**                              | **SOC Automation Lab** (Coming Soon) |
 
 
 ## Skills
@@ -34,7 +23,6 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 | Incident Response Planning and Execution          | **SOC Automation Lab** (Coming Soon) |
 | Case Management with TheHive                      | **SOC Automation Lab** (Coming Soon) |
 | Scripting and Automation for Threat Mitigation     | **SOC Automation Lab** (Coming Soon) |
-| **Upcoming Project**                              | **SOC Automation Lab** (Coming Soon) |
 
 
 
