@@ -17,53 +17,56 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Programming & Scripting: Python, Networking Scripting          | [Port Scanner Project](https://github.com/Deqa2020/port-scanner)|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)|
+| Incident Response Planning and Execution      | [SOC Automation Lab](#)|
+| Case Management with TheHive                  | [SOC Automation Lab](#)|
+| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)|
+| **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Network Tools
+- **Wireshark**: A popular network protocol analyzer.
+  ![Wireshark Badge](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+- **Suricata**: A high-performance Network IDS, IPS, and Network Security Monitoring (NSM) engine.
+  ![Suricata Badge](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
+- **Zeek**: A powerful network analysis framework that focuses on security monitoring.
+  ![Zeek Badge](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Endpoint Tools
+- **Microsoft Defender for Endpoint**: An integrated solution to protect endpoints and network from threats.
+  ![Microsoft Defender Badge](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
+- **Velociraptor**: An endpoint monitoring and investigation tool that enables real-time analysis.
+  ![Velociraptor Badge](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### SIEM (Security Information and Event Management)
+- **Microsoft Sentinel**: A cloud-native SIEM solution providing intelligent security analytics across the enterprise.
+  ![Microsoft Sentinel Badge](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+- **Splunk**: A popular platform for searching, monitoring, and analyzing machine-generated data in real time.
+  ![Splunk Badge](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+- **Elastic**: A suite of software for search, logging, and analytics built on the Elastic Stack (Elasticsearch).
+  ![Elastic Badge](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
+
 
 ## 🏆 Certifications
 
 
 [<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
-
-## 📝 Certifications and Skills
-
-I'm proud to announce that I've completed **CompTIA Network+** certification! Here's the badge for it:
-
-[<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.comptia.org/certifications/network)
-
-
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 
 ## 📝 Upcoming Exam
@@ -73,11 +76,12 @@ I'm currently preparing for the **CompTIA Security+** certification, with my exa
 [<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.comptia.org/certifications/security)
 
 🚀 Studying topics like:
-- Threats, vulnerabilities, and attacks
-- Incident response
-- Network security and architecture
-- Risk management
-- SOC operations
+
+1. **General Security Concepts**
+2. **Threats, Vulnerabilities, and Mitigations**
+3. **Security Architecture**
+4. **Security Operations**
+5. **Security Program Management and Oversight**
 
 Stay tuned for updates after the exam!
 
