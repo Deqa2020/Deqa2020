@@ -56,6 +56,34 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+
+# Port Scanner Project
+
+This project is a **Port Scanner** built with Python. It helps to detect open ports on a given IP address or hostname.
+
+## GitHub Repository
+
+Check out the project on GitHub here:  
+[Port Scanner Project](https://github.com/Deqa2020/port-scanner)
+
+## Features
+
+- **Python-based** for ease of use.
+- Scans open ports for a given IP or domain.
+- Can be used for network analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
