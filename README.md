@@ -1,18 +1,16 @@
 # Hello, I'm Deqa
 
-# Connect with me on LinkedIn
+## Connect with me on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deqa-mohamed-13149a23b/)
 
-
 I am a cybersecurity student with a deep interest in technology and a strong commitment to solving complex problems. 
-## Objective
 
+## Objective
 
 To obtain a position in the cybersecurity field where I can utilize my skills in IT support, network security, and penetration testing. Eager to contribute to a team while further developing my expertise in cybersecurity and gaining practical experience in information security.
 
 ## Skills
-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,20 +21,7 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)|
 | **Upcoming Project**                          | **SOC Automation Lab** (Coming Soon)|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Tools
 
@@ -62,12 +47,13 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 - **Elastic**: A suite of software for search, logging, and analytics built on the Elastic Stack (Elasticsearch).
   ![Elastic Badge](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
 
+---
 
 ## 🏆 Certifications
 
-
 [<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
 
+---
 
 ## 📝 Upcoming Exam
 
@@ -85,8 +71,7 @@ I'm currently preparing for the **CompTIA Security+** certification, with my exa
 
 Stay tuned for updates after the exam!
 
-
-
+---
 
 ## 🚧 Upcoming Projects
 
@@ -109,6 +94,13 @@ I'm actively building projects to strengthen my cybersecurity and SOC skills, wi
 
 Stay tuned! These projects are in progress and will be shared soon here on GitHub. 🚀
 
+---
 
+## 🚀 Let's Connect!
 
+If you have any feedback, suggestions, or questions, feel free to reach out via:
 
+- [LinkedIn](https://www.linkedin.com/in/deqa-mohamed-13149a23b/)
+- [GitHub Issues](https://github.com/Deqa2020/Deqa2020/issues)
+
+Stay tuned for new updates, and thank you for checking out my work!
