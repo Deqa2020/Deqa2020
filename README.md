@@ -48,13 +48,14 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 
 ## 🏆 Certifications
 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-
-
 
 [<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
 
+## 📝 Certifications and Skills
+
+I'm proud to announce that I've completed **CompTIA Network+** certification! Here's the badge for it:
+
+[<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.comptia.org/certifications/network)
 
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -65,8 +66,45 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 </div>
 
 
+## 📝 Upcoming Exam
+
+I'm currently preparing for the **CompTIA Security+** certification, with my exam scheduled for **May 2025**.
+
+[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.comptia.org/certifications/security)
+
+🚀 Studying topics like:
+- Threats, vulnerabilities, and attacks
+- Incident response
+- Network security and architecture
+- Risk management
+- SOC operations
+
+Stay tuned for updates after the exam!
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+
+## 🚧 Upcoming Projects
+
+I'm actively building projects to strengthen my cybersecurity and SOC skills, with the goal of landing an internship and gaining real-world experience. Here's what's coming soon:
+
+- 🕵️‍♀️ **SOC Analyst Toolkit (Python)**  
+  A command-line toolkit for SOC tasks: port scanning, log parsing, and GeoIP lookups — all built in Python.
+
+- 🧠 **Threat Hunting Lab Reports**  
+  Hands-on threat hunting writeups based on simulated attacks using TryHackMe and custom detection rules in Splunk.
+
+- 📊 **Mini SIEM with Splunk or ELK**  
+  Creating a small-scale SIEM that collects logs from Windows/Linux machines, detects suspicious behavior, and triggers alerts.
+
+- 🔍 **Log Analyzer**  
+  A Python-based log analysis tool that scans event logs for failed logins, privilege escalation attempts, and suspicious PowerShell usage.
+
+- 💥 **Incident Response Simulation**  
+  Simulating a real attack (phishing, brute force, malware) in a lab and documenting the response steps and timeline.
+
+Stay tuned! These projects are in progress and will be shared soon here on GitHub. 🚀
+
+
+
+
