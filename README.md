@@ -12,11 +12,11 @@ I am a cybersecurity student with a deep interest in technology and a strong com
 To obtain a position in the cybersecurity field where I can utilize my skills in IT support, network security, and penetration testing. Eager to contribute to a team while further developing my expertise in cybersecurity and gaining practical experience in information security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Programming & Scripting: Python, Networking Scripting          | <a href="https://google.com">Detection Lab</a>|
+| Programming & Scripting: Python, Networking Scripting          | [Port Scanner Project](https://github.com/Deqa2020/port-scanner)|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,20 +57,23 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 </div>
 
 
-# Port Scanner Project
+# Port Scanner
 
-This project is a **Port Scanner** built with Python. It helps to detect open ports on a given IP address or hostname.
+## Overview
+
+This project is a **Port Scanner** built using **Python**. It scans a given IP address or hostname to detect open ports. The script can be used for network security analysis and testing the accessibility of remote servers.
 
 ## GitHub Repository
 
-Check out the project on GitHub here:  
+You can explore the project here:
+
 [Port Scanner Project](https://github.com/Deqa2020/port-scanner)
 
 ## Features
 
-- **Python-based** for ease of use.
-- Scans open ports for a given IP or domain.
-- Can be used for network analysis.
+- Python-based port scanning tool.
+- Can scan a range of ports for a given IP or domain.
+- Useful for network security and penetration testing.
 
 
 
