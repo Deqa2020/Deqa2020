@@ -46,43 +46,23 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## 🏆 Certifications
+
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+
+
+
+[<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
+
+
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-
-# Port Scanner
-
-## Overview
-
-This project is a **Port Scanner** built using **Python**. It scans a given IP address or hostname to detect open ports. The script can be used for network security analysis and testing the accessibility of remote servers.
-
-## GitHub Repository
-
-You can explore the project here:
-
-[Port Scanner Project](https://github.com/Deqa2020/port-scanner)
-
-## Features
-
-- Python-based port scanning tool.
-- Can scan a range of ports for a given IP or domain.
-- Useful for network security and penetration testing.
-
-
-
-
-
-
-
-
-
 
 
 
