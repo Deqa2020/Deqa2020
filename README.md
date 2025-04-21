@@ -74,11 +74,11 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 
 I’ve successfully completed the **IT Support Certificate** program.
 
-![Deqa Mohamed IT Support Certificate](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
 
 📎 [View Full Certificate Here](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
 
 
+[<img src="https://img.shields.io/badge/-IT%20Support%20Certificate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
 
 ---
 
