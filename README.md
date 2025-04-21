@@ -1,8 +1,5 @@
 # Hello, I'm Deqa
 
-## Connect with me on LinkedIn
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deqa-mohamed-13149a23b/)
 
 I am a cybersecurity student with a deep interest in technology and a strong commitment to solving complex problems. 
 
@@ -72,12 +69,6 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 [<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
 
 
-I’ve successfully completed the **IT Support Certificate** program.
-
-
-📎 [View Full Certificate Here](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
-
-
 [<img src="https://img.shields.io/badge/-IT%20Support%20Certificate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
 
 ---
@@ -128,6 +119,5 @@ Stay tuned! These projects are in progress and will be shared soon here on GitHu
 If you have any feedback, suggestions, or questions, feel free to reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/deqa-mohamed-13149a23b/)
-- [GitHub Issues](https://github.com/Deqa2020/Deqa2020/issues)
 
 Stay tuned for new updates, and thank you for checking out my work!
