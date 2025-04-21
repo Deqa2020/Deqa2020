@@ -71,6 +71,15 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 
 [<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6XKFLV2MVD.pdf)
 
+
+I’ve successfully completed the **IT Support Certificate** program.
+
+![Deqa Mohamed IT Support Certificate](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
+
+📎 [View Full Certificate Here](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
+
+
+
 ---
 
 ## 📝 Upcoming Exam
