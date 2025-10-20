@@ -71,23 +71,33 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 
 [<img src="https://img.shields.io/badge/-IT%20Support%20Certificate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />](https://dochub.com/deqa-mohamed-yqy0j8/gp5nv1EK7aa8xrqwGlbo0J/deqa-mohamed-jpg)
 
+[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/022ce726-0348-4ab2-b17d-aeb215fb431a/linked_in_profile)
+
+
 ---
 
 ## 📝 Upcoming Exam
 
-I'm currently preparing for the **CompTIA Security+** certification, with my exam scheduled for **May 2025**.
+I'm currently preparing for the following certifications:
 
-[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.comptia.org/certifications/security)
+
+[<img src="https://img.shields.io/badge/-CySA%2B-FFA500?&style=for-the-badge&logo=CompTIA&logoColor=white" />](#)  
+[<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified-00FF00?&style=for-the-badge&logo=Splunk&logoColor=white" />](#)
+
+
 
 🚀 Studying topics like:
 
-1. **General Security Concepts**
-2. **Threats, Vulnerabilities, and Mitigations**
-3. **Security Architecture**
-4. **Security Operations**
-5. **Security Program Management and Oversight**
+## 📝 Upcoming Exam
 
-Stay tuned for updates after the exam!
+I'm currently preparing for the following certifications:
+
+
+[<img src="https://img.shields.io/badge/-CySA%2B-FFA500?&style=for-the-badge&logo=CompTIA&logoColor=white" />](#)  
+[<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified-00FF00?&style=for-the-badge&logo=Splunk&logoColor=white" />](#)
+
+
+
 
 ---
 
