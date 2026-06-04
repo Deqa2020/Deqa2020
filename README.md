@@ -15,7 +15,7 @@ To obtain a position in the cybersecurity field where I can utilize my skills in
 | Skill                                             | Associated Project         |
 |---------------------------------------------------|----------------------------|
 | Programming & Scripting: Python, Networking Scripting | [Port Scanner Project](https://github.com/Deqa2020/port-scanner) |
-| Programming & Scripting: Python, CLI Design, User Interaction | [Somali Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
+| Programming & Scripting: Python, CLI Design, User Interaction | [ Meal Prep Planner](https://github.com/Deqa2020/somali-meal-prep-planner) |
 
 
 
